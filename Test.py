@@ -12,3 +12,8 @@ else:
 
 print("Testing for git")
 
+if age == 20:
+   anwser =  input("Why you so old? ")
+   print("You are so old""\n", anwser)
+else:
+    print("Your young af")
