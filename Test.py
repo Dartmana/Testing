@@ -17,3 +17,12 @@ if age == 20:
    print("You are so old""\n", anwser)
 else:
     print("Your young af")
+
+print("I love my wife")
+w_age = 22
+
+if w_age > 22:
+    print("Dope")
+elif w_age < 18:
+    print("Oh no bro")
+    
